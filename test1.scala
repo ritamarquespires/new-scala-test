@@ -8,3 +8,5 @@ var evenMorePotatossss = 1233
 var suchWow = 123131
 
 var beMyHero = 123123
+
+var potatos = 123123
