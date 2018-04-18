@@ -15,3 +15,5 @@ var cenas = 123
 
 
 var manyPotatos = 1231231
+
+var suchCenas = 123123
