@@ -21,3 +21,8 @@ var okey = 1231231
 
 
 var suchCenas = 123123
+
+
+var wut = 1231231
+
+
