@@ -1,0 +1,2 @@
+# new-scala-test
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8305e5a34b1746f59e8072e220d6b562)](https://app.codacy.com/app/Codacy/new-scala-test?utm_source=github.com&utm_medium=referral&utm_content=machadoit/new-scala-test&utm_campaign=badger)
