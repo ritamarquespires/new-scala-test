@@ -1,3 +1,6 @@
-val immutableVariable = 42
+val immutableVariable = 40
 
-val anotherAwesomeImmutableVariable = 567
+//The Scala way using immutability
+val immutableVariablePlus2 = immutableVariable + 2
+
+println(immutableVariablePlus2)
