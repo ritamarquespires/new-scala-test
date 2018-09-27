@@ -1,6 +1,6 @@
-val immutableVariable = 40
+var mutableVariable = 40
 
-//The Scala way using immutability
-val immutableVariablePlus2 = immutableVariable + 2
+//I will change this to a mutable variable because I feel like it, no one will notice :D
+mutableVariable = mutableVariable + 2
 
-println(immutableVariablePlus2)
+println(mutableVariable)
