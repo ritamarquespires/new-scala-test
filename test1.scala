@@ -23,3 +23,7 @@ var okey = 1231231
 var suchCenas = 123123
 
 var potatos = 1231231
+
+
+var ohMy = 123
+
