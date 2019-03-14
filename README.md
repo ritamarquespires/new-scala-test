@@ -1,2 +1,3 @@
 # new-scala-test
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9474995f10fc4814b76b1df31c45cfb2)](https://app.codacy.com/app/ar.marquespires/new-scala-test?utm_source=github.com&utm_medium=referral&utm_content=ritamarquespires/new-scala-test&utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8305e5a34b1746f59e8072e220d6b562)](https://app.codacy.com/app/Codacy/new-scala-test?utm_source=github.com&utm_medium=referral&utm_content=machadoit/new-scala-test&utm_campaign=badger)
